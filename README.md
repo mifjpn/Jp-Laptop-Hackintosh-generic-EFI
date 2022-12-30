@@ -1,0 +1,1 @@
+# Jp-Laptop-Hackintosh-generic-EFI
