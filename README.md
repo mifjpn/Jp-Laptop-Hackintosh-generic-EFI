@@ -1,9 +1,13 @@
 # Jp-Laptop-Hackintosh-generic-EFI
 ## Contents(EFIs)
 1.Toshiba Dynabook CL4-T564-78L
+
 2.NEC VersaPro PC-VK25TX
+
 3.NEC VersaPro PC-VK24LF
+
 4.NEC VersaPro PC-VK27MX
+
 ##overview
 These EFIs have at least the Device settings required for the above laptops.
 In other words, these are the EFIs that were able to boot into the installer.
@@ -17,9 +21,13 @@ You may need CryptexFixup.kext to interpolate instructions without a CPU command
 # Jp-Laptop-Hackintosh-generic-EFI
 ## 内容(EFI)
 1.東芝 ダイナブック CL4-T564-78L
+
 2.NEC VersaPro PC-VK25TX
+
 3.NEC VersaPro PC-VK24LF
+
 4.NEC VersaPro PC-VK27MX
+
 ##概要
 これらの EFI には、少なくとも上記のラップトップに必要なデバイス設定がしてあります。
 つまり、これらはインストーラーを起動できた EFI です。
